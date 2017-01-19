@@ -1,0 +1,7 @@
+#Thu Jan 19 15:21:12 CST 2017
+base.0=F\:\\googledownload\\RemoteControl3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_10192b16fb67faab8f1e7534529deb45ebeb0e47
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\googledownload\\RemoteControl3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_739e8ae94a2e5cc53aeb34fa0fdf31544e6a8a40\\classes.dex
+base.1=F\:\\googledownload\\RemoteControl3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_739e8ae94a2e5cc53aeb34fa0fdf31544e6a8a40
+file.0=F\:\\googledownload\\RemoteControl3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_10192b16fb67faab8f1e7534529deb45ebeb0e47\\classes.dex

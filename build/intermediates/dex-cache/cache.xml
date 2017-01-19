@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\googledownload\RemoteControl3.0\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9dc810d8eee188237315697299931dd95bde1ab8">
+        <dex dex="F:\googledownload\RemoteControl3.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_739e8ae94a2e5cc53aeb34fa0fdf31544e6a8a40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\googledownload\RemoteControl3.0\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da6d15323d9e2705a59c90e98abb84c3acb53e11">
+        <dex dex="F:\googledownload\RemoteControl3.0\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_10192b16fb67faab8f1e7534529deb45ebeb0e47\classes.dex" />
+    </item>
+
+</items>

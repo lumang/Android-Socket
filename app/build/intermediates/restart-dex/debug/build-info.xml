@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="91025567126960"
+    token="1476727933092471878"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="197" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="219" />
+    <task
+        name="verifier"
+        duration="31" />
+
+    <artifact
+        location="F:\googledownload\RemoteControl3.0\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="91025567126960"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\googledownload\RemoteControl3.0\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
